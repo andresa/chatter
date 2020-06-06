@@ -8,7 +8,7 @@
     "test": "DEBUG=* nodemon ./index.js --exec babel-node -e js"
   },
   "author": "Andres Araya",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.4",
